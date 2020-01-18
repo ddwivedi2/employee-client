@@ -1,0 +1,25 @@
+div.container{
+    background-color: #F6D55C;
+    div.row-elem{
+        cursor: pointer;
+        border: 2px solid #173F5F;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        span{
+
+        }
+    }
+}
+button{
+    width: 60px; 
+    height: 30px;
+    background-color: #F6D55C;
+    margin-top: 20px;
+}
+.inc{
+    float: right;
+}
+.dec{
+    float: left;
+}
